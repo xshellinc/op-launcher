@@ -1,0 +1,13 @@
+{
+  "name": "op launcher",
+  "version": "v0.0.1",
+  "description": "",
+  "main": "run.sh",
+  "author": "",
+  "license": "",
+  "language":"bash",
+  "scripts": {
+     "start": "run.sh"
+    },
+   "dependency": null
+}
