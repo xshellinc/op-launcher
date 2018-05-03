@@ -7,7 +7,7 @@
   "license": "",
   "language":"bash",
   "scripts": {
-     "start": "run.sh"
+     "start": "./run.sh"
     },
    "dependency": null
 }
